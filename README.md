@@ -1,7 +1,4 @@
-<h1 align="center">Hi, I'm Wildrieli👋</h1>
-
-
-<p align="center">
+<h1 align="center">Hi, I'm Wildrieli👋</h1<p align="center">
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&duration=3000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Systems+Analyst;Future+Machine+Learning+Engineer;Bridging+Law%2C+Technology+and+Artificial+Intelligence"
@@ -31,11 +28,11 @@ Currently, I work with .NET, React, and MySQL, while deepening my knowledge in P
 
 ## 🎯 Current Focus
 
-- 🤖 Machine Learning Engineering
-- 🧠 Artificial Intelligence
-- ☁️ MLOps & DevOps
-- 🔐 Data Privacy & Data Governance
-- 💻 Software Engineering
+| 🤖 Machine Learning Engineering
+| 🧠 Artificial Intelligence
+| ☁️ MLOps & DevOps
+| 🔐 Data Privacy & Data Governance
+| 💻 Software Engineering
 
 ---
 
@@ -44,11 +41,6 @@ Currently, I work with .NET, React, and MySQL, while deepening my knowledge in P
 <p align="center">
   <a href="https://www.linkedin.com/in/wildrieli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wildrieli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-</p>
 
 ---
 
