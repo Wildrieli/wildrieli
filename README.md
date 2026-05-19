@@ -42,10 +42,3 @@ Currently, I work with .NET, React, and MySQL, while deepening my knowledge in P
   <a href="https://www.linkedin.com/in/wildrieli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 
----
-
-<p align="center">
-  <i>
-    Turning legal expertise and technology experience into intelligent and scalable solutions.
-  </i>
-</p>
